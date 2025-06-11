@@ -23,7 +23,7 @@ A simple and user-friendly desktop application that converts PDF documents into 
 
 1. Clone this repository or download the source code
    ```
-   git clone https://github.com/yourusername/pdf-to-audiobook.git
+   git clone https://github.com/GriffinJolly/pdf-to-audiobook.git
    cd pdf-to-audiobook
    ```
 
